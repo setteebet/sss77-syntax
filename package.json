@@ -1,0 +1,18 @@
+{
+  "name": "sss77-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "หวย92✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"หวย92",
+"เว็บหวย24",
+"lottovip af",
+"สมัครเว็บหวย24",
+"หวยสด huaysod"
+],
+  "repository": "https://github.com/setteebet/sss77-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
